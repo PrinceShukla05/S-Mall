@@ -1,2 +1,2 @@
-# sm
+
 # Search A Mall
